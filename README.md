@@ -22,7 +22,7 @@ style="display: block; margin: 0 auto;  width: 50%;"
 <h3 align="center">I'm a passionate Learner from India.</h3>
 
 
-## 🙋‍♂️ About Me
+<!--## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **😄**
 
@@ -34,7 +34,7 @@ style="display: block; margin: 0 auto;  width: 50%;"
 
 - 📫 How to reach me **gehuanmolrawat@gmail.com**
 
-- ⚡ Fun fact **I play games and watch Anime.**
+- ⚡ Fun fact **I play games and watch Anime.**-->
 
 ## 🚀 Languages and Tools:
 
