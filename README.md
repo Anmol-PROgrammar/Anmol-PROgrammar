@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋
 
 <!--
-**BadaBadaua/BadaBadaua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Anmol-PROgrammar/Anmol-PROgrammar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -30,7 +30,7 @@ style="display: block; margin: 0 auto;  width: 50%;"
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://badabadaua.github.io/TEST_FSWD)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://Anmol-PROgrammar.github.io/TEST_FSWD)**
 
 - 📫 How to reach me **gehuanmolrawat@gmail.com**
 
@@ -54,15 +54,15 @@ style="display: block; margin: 0 auto;  width: 50%;"
 
 <p align="center">
     <a href="https://github.com/Anmol Rawat/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anmol Rawat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BadaBadaua&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anmol Rawat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anmol-PROgrammar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/BadaBadaua/github-readme-stats"><img alt="Anmol Rawat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BadaBadaua&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/BadaBadaua/github-readme-stats"><img alt="Anmol Rawat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadaBadaua&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Anmol-PROgrammar/github-readme-stats"><img alt="Anmol Rawat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Anmol-PROgrammar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Anmol-PROgrammar/github-readme-stats"><img alt="Anmol Rawat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol-PROgrammar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -70,7 +70,7 @@ style="display: block; margin: 0 auto;  width: 50%;"
 <br/>
 <br/>
 
-<a href="https://github.com/BadaBadaua/github-readme-activity-graph"><img alt="Anmol Rawat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BadaBadaua&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Anmol-PROgrammar/github-readme-activity-graph"><img alt="Anmol Rawat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anmol-PROgrammar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -85,6 +85,6 @@ style="display: block; margin: 0 auto;  width: 50%;"
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=BadaBadaua">
+    <img src="https://komarev.com/ghpvc/?username=Anmol-PROgrammar">
 </a>
-<a href="https://github.com/BadaBadaua?tab=followers"><img src="https://img.shields.io/github/followers/BadaBadaua?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Anmol-PROgrammar?tab=followers"><img src="https://img.shields.io/github/followers/Anmol-PROgrammar?label=Followers&style=social" alt="GitHub Badge"></a>
