@@ -18,74 +18,34 @@ style="display: block; margin: 0 auto;  width: 50%;"
 
   <img  width="80%" height="auto" src="https://c.tenor.com/aNHKkEhomm4AAAAC/anime-keyboard.gif" alt="Intro-gif"/>
 
-<h1 align="center"> नमस्ते (Namaste)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anmol</h1>
-<h3 align="center">I'm a passionate Learner from India.</h3>
+<h1 align="center">Hi 👋, I'm Anmol Rawat</h1>
+<h3 align="center">A passionate developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anmol-programmar&label=Profile%20views&color=0e75b6&style=flat" alt="anmol-programmar" /> </p>
 
-<!--## 🙋‍♂️ About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anmol-programmar" alt="anmol-programmar" /></a> </p>
 
-- 🔭 I’m currently working on **😄**
+- 🔭 I’m currently working on **😊**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Vue3**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **web**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://Anmol-PROgrammar.github.io/TEST_FSWD)**
+- 🤝 I’m looking for help with **Typescript**
+
+- 💬 Ask me about **react ,vue ,cloud**
 
 - 📫 How to reach me **gehuanmolrawat@gmail.com**
 
-- ⚡ Fun fact **I play games and watch Anime.**-->
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://https://devdocs.io/c" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
-    <a href="https://https://devdocs.io/cpp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-<p align="center">
-    <a href="https://github.com/Anmol Rawat/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anmol Rawat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anmol-PROgrammar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/Anmol-PROgrammar/github-readme-stats"><img alt="Anmol Rawat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Anmol-PROgrammar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Anmol-PROgrammar/github-readme-stats"><img alt="Anmol Rawat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol-PROgrammar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/Anmol-PROgrammar/github-readme-activity-graph"><img alt="Anmol Rawat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anmol-PROgrammar&theme=react-dark&hide_border=true&custom_title=Activity%20Graph" /></a>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anmol-PROgrammar&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Github Activity graph](https://activity-graph.herokuapp.com/graph?username=Anmol-PROgrammar&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)](https://github.com/MrKrishnaAgarwal/readme-components-github)
-<br/>
-<br/>
-
-## Connect with me:
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href = "www.linkedin.com/in/anmol-rawat-74b7a7209"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://https://twitter.com/BadababuaRawat"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Anmol-PROgrammar">
-</a>
-<a href="https://github.com/Anmol-PROgrammar?tab=followers"><img src="https://img.shields.io/github/followers/Anmol-PROgrammar?label=Followers&style=social" alt="GitHub Badge"></a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmol-programmar&show_icons=true&locale=en&layout=compact" alt="anmol-programmar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anmol-programmar&show_icons=true&locale=en" alt="anmol-programmar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anmol-programmar&" alt="anmol-programmar" /></p>
