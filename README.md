@@ -72,7 +72,7 @@ style="display: block; margin: 0 auto;  width: 50%;"
 
 <a href="https://github.com/Anmol-PROgrammar/github-readme-activity-graph"><img alt="Anmol Rawat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anmol-PROgrammar&theme=react-dark&hide_border=true&custom_title=Activity%20Graph" /></a>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anmol-PROgrammar&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Github Activity graph](https://activity-graph.herokuapp.com/graph?username=Anmol-PROgrammar&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)](https://github.com/MrKrishnaAgarwal/readme-components-github)
 <br/>
 <br/>
 
