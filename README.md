@@ -70,7 +70,7 @@ style="display: block; margin: 0 auto;  width: 50%;"
 <br/>
 <br/>
 
-<a href="https://github.com/Anmol-PROgrammar/github-readme-activity-graph"><img alt="Anmol Rawat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anmol-PROgrammar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Anmol-PROgrammar/github-readme-activity-graph"><img alt="Anmol Rawat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anmol-PROgrammar&theme=react-dark&hide_border=true&custom_title=Activity%20Graph" /></a>
 
 <br/>
 <br/>
